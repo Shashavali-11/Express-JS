@@ -1,0 +1,38 @@
+
+// app.get("/",  (req, res)=>{
+//     // console.log("HI Query : ",req.query);  // HI Query :  { name: 'shasha' }
+    
+//     if(req.query.order == "asce" && (req.query.cat=="mens" || req.query.cat=="womens" || req.query.cat=="jewelery" || req.query.cat=="electronics"))
+//         {
+//         console.log("Inside ", req.query.cat, " && ", req.query.order ) 
+        
+//         res.send({
+//             queryParams: req.query
+//         })
+
+//     }
+//     // else if(req.query.order == "desc" && req.query.cat==""){
+
+//     //     res.send({
+//     //         queryParams: req.query
+//     //     })
+
+//     // }else if(req.query.cat == "mens"){
+
+//     //     res.send({
+//     //         queryParams: req.query
+//     //     })
+
+//     // }else if(req.query.order == "asce" && (req.query.cat=="mens" || req.query.cat=="womens" || req.query.cat=="jewelery" || req.query.cat=="electronics")){
+
+//     //     console.log("HI Shasha : ", req.query)
+
+//     //     res.send({
+//     //         queryParams: req.query
+//     //     })
+
+//     // }
+
+
+
+// })

@@ -1,0 +1,125 @@
+{
+    "sweets": [
+      {
+        "id": 1,
+        "name": "Gulab Jamun",
+        "category": "Fried Sweets",
+        "ingredients": ["milk powder", "sugar", "ghee", "cardamom", "saffron"],
+        "origin": "India",
+        "description": "Deep-fried dough balls soaked in sugary syrup flavored with cardamom and rose water."
+      },
+      {
+        "id": 2,
+        "name": "Jalebi",
+        "category": "Fried Sweets",
+        "ingredients": ["flour", "sugar", "saffron", "cardamom", "ghee"],
+        "origin": "India",
+        "description": "A popular sweet made by deep-frying batter in circular shapes and soaking them in sugar syrup."
+      },
+      {
+        "id": 3,
+        "name": "Ladoo",
+        "category": "Baked Sweets",
+        "ingredients": ["gram flour", "ghee", "sugar", "cardamom"],
+        "origin": "India",
+        "description": "A round-shaped sweet made from flour and sugar, often served during festivals."
+      },
+      {
+        "id": 4,
+        "name": "Barfi",
+        "category": "Milk-based Sweets",
+        "ingredients": ["milk", "sugar", "cardamom", "ghee"],
+        "origin": "India",
+        "description": "A dense, milk-based sweet, often garnished with pistachios or almonds."
+      },
+      {
+        "id": 5,
+        "name": "Rasgulla",
+        "category": "Milk-based Sweets",
+        "ingredients": ["paneer", "sugar", "water", "rose water"],
+        "origin": "India",
+        "description": "Soft, spongy balls made of chhena, soaked in sweet syrup flavored with rose water."
+      },
+      {
+        "id": 6,
+        "name": "Kaju Katli",
+        "category": "Nut-based Sweets",
+        "ingredients": ["cashews", "sugar", "ghee", "cardamom"],
+        "origin": "India",
+        "description": "A smooth, diamond-shaped sweet made from cashew nuts and sugar syrup."
+      },
+      {
+        "id": 7,
+        "name": "Peda",
+        "category": "Milk-based Sweets",
+        "ingredients": ["milk", "sugar", "cardamom", "pistachios"],
+        "origin": "India",
+        "description": "A milk-based sweet with a dense, chewy texture, flavored with cardamom and garnished with nuts."
+      },
+      {
+        "id": 8,
+        "name": "Mysore Pak",
+        "category": "Fried Sweets",
+        "ingredients": ["gram flour", "ghee", "sugar", "cardamom"],
+        "origin": "India",
+        "description": "A rich, buttery sweet made from gram flour, sugar, and ghee."
+      },
+      {
+        "id": 9,
+        "name": "Ras Malai",
+        "category": "Milk-based Sweets",
+        "ingredients": ["paneer", "milk", "sugar", "cardamom", "saffron"],
+        "origin": "India",
+        "description": "Creamy, spongy discs made from chhena soaked in sweetened milk and flavored with saffron."
+      },
+      {
+        "id": 10,
+        "name": "Sooji Halwa",
+        "category": "Pudding-like Sweets",
+        "ingredients": ["semolina", "ghee", "sugar", "cardamom", "cashews", "raisins"],
+        "origin": "India",
+        "description": "A warm, sweet semolina pudding cooked with ghee, sugar, and garnished with nuts."
+      },
+      {
+        "id": 11,
+        "name": "Imarti",
+        "category": "Fried Sweets",
+        "ingredients": ["urad dal flour", "sugar", "saffron", "cardamom", "ghee"],
+        "origin": "India",
+        "description": "A traditional Indian sweet similar to Jalebi, made from urad dal flour and soaked in sugar syrup."
+      },
+      {
+        "id": 12,
+        "name": "Chamcham",
+        "category": "Milk-based Sweets",
+        "ingredients": ["paneer", "sugar", "water", "rose water"],
+        "origin": "India",
+        "description": "Chewy, sweet rolls made from paneer, soaked in sugar syrup flavored with rose water."
+      },
+      {
+        "id": 13,
+        "name": "Feni",
+        "category": "Fermented Sweets",
+        "ingredients": ["cashews", "sugar", "water", "yeast"],
+        "origin": "Goa, India",
+        "description": "A fermented sweet drink made from cashews, typically consumed during festivals."
+      },
+      {
+        "id": 14,
+        "name": "Kulfi",
+        "category": "Frozen Sweets",
+        "ingredients": ["milk", "sugar", "cardamom", "pistachios", "saffron"],
+        "origin": "India",
+        "description": "A dense, frozen dairy dessert flavored with cardamom, saffron, and garnished with pistachios."
+      },
+      {
+        "id": 15,
+        "name": "Pineapple Sheera",
+        "category": "Pudding-like Sweets",
+        "ingredients": ["semolina", "pineapple", "sugar", "ghee", "cardamom", "cashews"],
+        "origin": "India",
+        "description": "A fruity, warm semolina pudding made with pineapple, sugar, and ghee."
+      }
+    ]
+}
+  
