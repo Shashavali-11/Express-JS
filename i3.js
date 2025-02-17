@@ -26,11 +26,11 @@ app.get("/", (req, res)=>{
     //     })
     // })
 
-    
+
     fetch("https://openrouter.ai/api/v1/chat/completions", {
         method: "POST",
         headers: {
-          "Authorization": "Bearer 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",
+          "Authorization": "Bearer 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",
           "HTTP-Referer": "<YOUR_SITE_URL>", // Optional. Site URL for rankings on openrouter.ai.
           "X-Title": "<YOUR_SITE_NAME>", // Optional. Site title for rankings on openrouter.ai.
           "Content-Type": "application/json"
