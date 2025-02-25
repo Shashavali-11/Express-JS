@@ -19,7 +19,6 @@ app.post("/login", (req,res)=>{
     const {job} = req.body;
     let qry = `select * from emp where job=?`;
     connection.query(qry,[job], (err, result)=>{
-        // err?console.log(err):result.job=="CLERK"?console.log(result):console.log("Nothing")
         if(err){
             console.log(err)
             res.send(err);
@@ -33,7 +32,7 @@ app.post("/login", (req,res)=>{
                 console.log(de)
 
             }else{
-                res.send("Invalid Credentials")
+                res.send("Invalid Credentials from User.")
             }
         }
 
