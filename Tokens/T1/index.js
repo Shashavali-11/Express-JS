@@ -1,6 +1,6 @@
 const express = require("express");
 const jwt = require("jsonwebtoken");
-const db = require("./db.js");
+// const db = require("./db.js");
 const connection = require("./db.js");
 
 const app = express()
